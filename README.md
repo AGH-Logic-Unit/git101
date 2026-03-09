@@ -1,3 +1,3 @@
 # Git 101
 
-Project to learn git commands!
+Project to learn git conflicts!
