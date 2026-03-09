@@ -1,0 +1,6 @@
+{
+    "name": "Simple calculator",
+    "version": "1.0.0",
+    "description": "A simple calculator codebase to demonstrate Git usage.",
+    "main": "main.cpp"
+}
