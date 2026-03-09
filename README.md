@@ -1,2 +1,3 @@
-# git101
-Example repository for learning git
+# Git 101
+
+Project to learn git commands!
